@@ -1,1 +1,1 @@
-# table-design
+card layout - pricing sample layout 
